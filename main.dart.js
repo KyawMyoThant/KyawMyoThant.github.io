@@ -36403,7 +36403,7 @@ case 2:return A.a4(o,r)}})
 return A.a6($async$ms,r)}}
 A.UF.prototype={}
 A.og.prototype={
-gji(){return"images/bogger.jpg"},
+gji(){return"assets/images/bogger.jpg"},
 St(a){var s,r={},q=a.a
 if(q==null)q=$.Hv()
 r.a=r.b=null
@@ -36429,7 +36429,7 @@ if(q==null)return a.i(0,r)
 if(b<2||b>(r+q)/2)return a.i(0,q)
 else return a.i(0,r)},
 xL(a){var s,r,q,p
-if(a==="images/bogger.jpg")return 1
+if(a==="assets/images/bogger.jpg")return 1
 s=A.a_u(a)
 r=s.gjr().length>1?s.gjr()[s.gjr().length-2]:""
 q=$.a65().nr(r)
